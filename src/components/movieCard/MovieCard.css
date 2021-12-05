@@ -1,0 +1,19 @@
+.card {
+  height: 430px;
+  margin: 10px;
+  background-color: wheat;
+}
+.movieImg{
+  height: 170px;
+}
+.card-body{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+  
+}
+.desc{
+  text-align: center;
+}
+
